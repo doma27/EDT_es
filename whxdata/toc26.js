@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc25.js\"  name=\"Sobrevisión típica de un rodillo\" url=\"OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm\"><item name=\"Parámetros de rugosidad según lo definido en la norma ISO\" url=\"OpMan/OpMan/Parámetros_de_rugosidad_según_lo_definido_en_la_norma_ISO_4287.htm\" /></data>";

@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc15.js\"  name=\"Ejecución automática - vista de posiciones\" url=\"OpMan/OpMan/Ejecución_automática_-_vista_de_posiciones.htm\"><item name=\"Iconografía\" url=\"OpMan/OpMan/Iconografía2.htm\" /></data>";

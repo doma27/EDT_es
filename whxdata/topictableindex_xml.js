@@ -1,1 +1,0 @@
-gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Activación manual\" to=\"Manipulador de rodillos\" num=\"50\"/><ck fm=\"Medición de la Textura de la Superficie del Rodillo\" to=\"Mechanical_Drawings_and_Parts_Lists.pdf\" num=\"41\"/></cki>";

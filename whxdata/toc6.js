@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc5.js\"  name=\"Principios y Descripción General\" url=\"OpMan/OpMan/Principios_y_Descripción_General.htm\"><item name=\"Disposición de la Pantalla\" url=\"OpMan/OpMan/Disposición_de_la_Pantalla.htm\" /></data>";

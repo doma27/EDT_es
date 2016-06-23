@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc7.js\"  name=\"Otras convenciones del interfaz de usuario\" url=\"OpMan/OpMan/Otras_convenciones_del_interfaz_de_usuario.htm\"><item name=\"Colores de los números\" url=\"OpMan/OpMan/Colores_de_los_números.htm\" /></data>";
