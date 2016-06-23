@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc3.js\"  name=\"Apagado de la Máquina de EDT\" url=\"OpMan/OpMan/Apagado_de_la_Máquina_de_EDT.htm\"><item name=\"Uso del Interruptor de Emergencia\" url=\"OpMan/OpMan/Uso_del_Interruptor_de_Emergencia.htm\" /></data>";

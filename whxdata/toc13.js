@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc12.js\"  name=\"Uso del Péndulo\" url=\"OpMan/OpMan/Uso_del_Péndulo.htm\"><item name=\"Cuadro que describe los botones modales en el péndulo del usuario\" url=\"OpMan/OpMan/Cuadro_que_describe_los_botones_modales_en_el_péndulo_del_usuario.htm\" /></data>";

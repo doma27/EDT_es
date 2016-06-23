@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data ><book name=\"MANUALE D'USO\" url=\"OpMan/OpMan/Lista_de_Figuras1.htm\" src=\"toc1.js\" /></data>";

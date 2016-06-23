@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Activación manual\" to=\"Iconografía\" num=\"37\"/><ck fm=\"Iconografía\" to=\"Selección de Programas y Secuencia Auto - Preámbulo\" num=\"37\"/><ck fm=\"Selección del Modo Carga\" to=\"Mechanical_Drawings_and_Parts_Lists.pdf\" num=\"18\"/></cki>";

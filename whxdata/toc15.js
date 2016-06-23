@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc14.js\"  name=\"Vista de Carga, Recarga y Descarga\" url=\"OpMan/OpMan/Vista_de_Carga_Recarga_y_Descarga.htm\"><item name=\"Iconografía\" url=\"OpMan/OpMan/Iconografía.htm\" /></data>";

@@ -1,0 +1,349 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ayuda">
+    <param name="Name" value="Notificación_de_Averías_y_Ayuda.htm">
+    <param name="Local" value="OpMan/OpMan/Notificación_de_Averías_y_Ayuda.htm">
+    <param name="Name" value="Ayuda.htm">
+    <param name="Local" value="OpMan/OpMan/Ayuda.htm">
+    <param name="Name" value="Modos_manual_y_AUTO.htm#IX_Ayuda_2">
+    <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_Ayuda_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Botones de selección">
+    <param name="Name" value="Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_Botones_de_selecci_n">
+    <param name="Local" value="OpMan/OpMan/Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_Botones_de_selecci_n">
+    <param name="Name" value="Botones_de_selección.htm">
+    <param name="Local" value="OpMan/OpMan/Botones_de_selección.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Comandos">
+    <param name="Name" value="Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_Comandos">
+    <param name="Local" value="OpMan/OpMan/Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_Comandos">
+    <param name="Name" value="Comandos.htm">
+    <param name="Local" value="OpMan/OpMan/Comandos.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="E-stop">
+    <param name="Name" value="E-stop.htm">
+    <param name="Local" value="OpMan/OpMan/E-stop.htm">
+    <param name="Name" value="E-stop.htm#IX_E_stop_1">
+    <param name="Local" value="OpMan/OpMan/E-stop.htm#IX_E_stop_1">
+    <param name="Name" value="E-stop.htm#IX_E_stop_2">
+    <param name="Local" value="OpMan/OpMan/E-stop.htm#IX_E_stop_2">
+    <param name="Name" value="E-stop.htm#IX_E_stop_3">
+    <param name="Local" value="OpMan/OpMan/E-stop.htm#IX_E_stop_3">
+    <param name="Name" value="Uso_del_Interruptor_de_Emergencia.htm#IX_E_stop_4">
+    <param name="Local" value="OpMan/OpMan/Uso_del_Interruptor_de_Emergencia.htm#IX_E_stop_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EDT">
+    <param name="Name" value="Instalación_-_Visión_de_Conjunto.htm#IX_EDT">
+    <param name="Local" value="OpMan/OpMan/Instalación_-_Visión_de_Conjunto.htm#IX_EDT">
+    <param name="Name" value="Descripción_General_de_la_Máquina_de_EDT.htm">
+    <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm">
+    <param name="Name" value="Descripción_General_de_la_Máquina_de_EDT.htm#IX_EDT_2">
+    <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm#IX_EDT_2">
+    <param name="Name" value="Descripción_General_de_la_Máquina_de_EDT.htm#IX_EDT_3">
+    <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm#IX_EDT_3">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_EDT_5">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_EDT_5">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_EDT_6">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_EDT_6">
+    <param name="Name" value="Estaciones_de_Texturizado.htm#IX_EDT_7">
+    <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado.htm#IX_EDT_7">
+    <param name="Name" value="Consola_del_Operador.htm#IX_EDT_8">
+    <param name="Local" value="OpMan/OpMan/Consola_del_Operador.htm#IX_EDT_8">
+    <param name="Name" value="Consola_del_Operador.htm#IX_EDT_9">
+    <param name="Local" value="OpMan/OpMan/Consola_del_Operador.htm#IX_EDT_9">
+    <param name="Name" value="Encendido_de_la_Máquina_de_EDT.htm">
+    <param name="Local" value="OpMan/OpMan/Encendido_de_la_Máquina_de_EDT.htm">
+    <param name="Name" value="Encendido_de_la_Máquina_de_EDT.htm#IX_EDT_11">
+    <param name="Local" value="OpMan/OpMan/Encendido_de_la_Máquina_de_EDT.htm#IX_EDT_11">
+    <param name="Name" value="Apagado_de_la_Máquina_de_EDT.htm">
+    <param name="Local" value="OpMan/OpMan/Apagado_de_la_Máquina_de_EDT.htm">
+    <param name="Name" value="Uso_del_Interruptor_de_Emergencia.htm#IX_EDT_13">
+    <param name="Local" value="OpMan/OpMan/Uso_del_Interruptor_de_Emergencia.htm#IX_EDT_13">
+    <param name="Name" value="Interfaz_de_Usuario.htm#IX_EDT_14">
+    <param name="Local" value="OpMan/OpMan/Interfaz_de_Usuario.htm#IX_EDT_14">
+    <param name="Name" value="Disposición_de_la_Pantalla.htm#IX_EDT_15">
+    <param name="Local" value="OpMan/OpMan/Disposición_de_la_Pantalla.htm#IX_EDT_15">
+    <param name="Name" value="Otras_convenciones_del_interfaz_de_usuario.htm#IX_EDT_16">
+    <param name="Local" value="OpMan/OpMan/Otras_convenciones_del_interfaz_de_usuario.htm#IX_EDT_16">
+    <param name="Name" value="Referenciación_y_consignas_de_la_máquina_de_EDT.htm">
+    <param name="Local" value="OpMan/OpMan/Referenciación_y_consignas_de_la_máquina_de_EDT.htm">
+    <param name="Name" value="Referenciación_y_consignas_de_la_máquina_de_EDT.htm#La_m_quina_de_EDT_debe">
+    <param name="Local" value="OpMan/OpMan/Referenciación_y_consignas_de_la_máquina_de_EDT.htm#La_m_quina_de_EDT_debe">
+    <param name="Name" value="Funcionamiento_de_la_máquina_en_modo_Consola.htm#IX_EDT_19">
+    <param name="Local" value="OpMan/OpMan/Funcionamiento_de_la_máquina_en_modo_Consola.htm#IX_EDT_19">
+    <param name="Name" value="Funcionamiento_Semiautomático.htm#IX_EDT_20">
+    <param name="Local" value="OpMan/OpMan/Funcionamiento_Semiautomático.htm#IX_EDT_20">
+    <param name="Name" value="Funcionamiento_en_Imágenes.htm#IX_EDT_21">
+    <param name="Local" value="OpMan/OpMan/Funcionamiento_en_Imágenes.htm#IX_EDT_21">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Estaciones de Texturizado">
+    <param name="Name" value="Estaciones_de_Texturizado.htm">
+    <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado.htm">
+    <param name="Name" value="Estaciones_de_Texturizado1.htm">
+    <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filtrado">
+    <param name="Name" value="Operaciones_de_Filtrado.htm">
+    <param name="Local" value="OpMan/OpMan/Operaciones_de_Filtrado.htm">
+    <param name="Name" value="Filtrado.htm">
+    <param name="Local" value="OpMan/OpMan/Filtrado.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Iconografía">
+    <param name="Name" value="Iconografía.htm">
+    <param name="Local" value="OpMan/OpMan/Iconografía.htm">
+    <param name="Name" value="Iconografía1.htm">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm">
+    <param name="Name" value="Iconografía2.htm">
+    <param name="Local" value="OpMan/OpMan/Iconografía2.htm">
+    <param name="Name" value="Iconografía3.htm">
+    <param name="Local" value="OpMan/OpMan/Iconografía3.htm">
+    <param name="Name" value="Secuencia_Auto_-_Postámbulo.htm#IX_Iconograf_a_4">
+    <param name="Local" value="OpMan/OpMan/Secuencia_Auto_-_Postámbulo.htm#IX_Iconograf_a_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interfaz de usuario">
+    <param name="Name" value="Encendido_de_la_Máquina_de_EDT.htm#IX_interfaz_de_usuario">
+    <param name="Local" value="OpMan/OpMan/Encendido_de_la_Máquina_de_EDT.htm#IX_interfaz_de_usuario">
+    <param name="Name" value="Encendido_de_la_Máquina_de_EDT.htm#IX_interfaz_de_usuario_1">
+    <param name="Local" value="OpMan/OpMan/Encendido_de_la_Máquina_de_EDT.htm#IX_interfaz_de_usuario_1">
+    <param name="Name" value="Principios_y_Descripción_General.htm#IX_interfaz_de_usuario_2">
+    <param name="Local" value="OpMan/OpMan/Principios_y_Descripción_General.htm#IX_interfaz_de_usuario_2">
+    <param name="Name" value="Disposición_de_la_Pantalla.htm#IX_interfaz_de_usuario_3">
+    <param name="Local" value="OpMan/OpMan/Disposición_de_la_Pantalla.htm#IX_interfaz_de_usuario_3">
+    <param name="Name" value="Disposición_de_la_Pantalla.htm#IX_interfaz_de_usuario_4">
+    <param name="Local" value="OpMan/OpMan/Disposición_de_la_Pantalla.htm#IX_interfaz_de_usuario_4">
+    <param name="Name" value="Estructura_de_los_Menús.htm#IX_interfaz_de_usuario_5">
+    <param name="Local" value="OpMan/OpMan/Estructura_de_los_Menús.htm#IX_interfaz_de_usuario_5">
+    <param name="Name" value="Elementos_y_convenciones_del_interfaz_de_usuario.htm">
+    <param name="Local" value="OpMan/OpMan/Elementos_y_convenciones_del_interfaz_de_usuario.htm">
+    <param name="Name" value="Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_interfaz_de_usuario_7">
+    <param name="Local" value="OpMan/OpMan/Elementos_y_convenciones_del_interfaz_de_usuario.htm#IX_interfaz_de_usuario_7">
+    <param name="Name" value="Otras_convenciones_del_interfaz_de_usuario.htm">
+    <param name="Local" value="OpMan/OpMan/Otras_convenciones_del_interfaz_de_usuario.htm">
+    <param name="Name" value="Modos_de_Navegación.htm#IX_interfaz_de_usuario_9">
+    <param name="Local" value="OpMan/OpMan/Modos_de_Navegación.htm#IX_interfaz_de_usuario_9">
+    <param name="Name" value="Selección_de_Programas_y_Secuencia_Auto_-_Preámbulo.htm#IX_interfaz_de_usuario_10">
+    <param name="Local" value="OpMan/OpMan/Selección_de_Programas_y_Secuencia_Auto_-_Preámbulo.htm#IX_interfaz_de_usuario_10">
+    <param name="Name" value="Secuencia_Semiautomática.htm#IX_interfaz_de_usuario_11">
+    <param name="Local" value="OpMan/OpMan/Secuencia_Semiautomática.htm#IX_interfaz_de_usuario_11">
+    <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm#IX_interfaz_de_usuario_12">
+    <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm#IX_interfaz_de_usuario_12">
+    <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_interfaz_de_usuario_13">
+    <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_interfaz_de_usuario_13">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Listo">
+    <param name="Name" value="Modos_manual_y_AUTO.htm#IX_Listo">
+    <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_Listo">
+    <param name="Name" value="Listo.htm">
+    <param name="Local" value="OpMan/OpMan/Listo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="lubricación">
+    <param name="Name" value="Lunetas.htm#IX_lubricaci_n">
+    <param name="Local" value="OpMan/OpMan/Lunetas.htm#IX_lubricaci_n">
+    <param name="Name" value="Lunetas.htm#IX_lubricaci_n_1">
+    <param name="Local" value="OpMan/OpMan/Lunetas.htm#IX_lubricaci_n_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lunetas">
+    <param name="Name" value="Lunetas.htm">
+    <param name="Local" value="OpMan/OpMan/Lunetas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mezcla">
+    <param name="Name" value="Mezcla.htm">
+    <param name="Local" value="OpMan/OpMan/Mezcla.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="AUTO">
+      <param name="Name" value="Introducción3.htm#IX_AUTO">
+      <param name="Local" value="OpMan/OpMan/Introducción3.htm#IX_AUTO">
+      <param name="Name" value="Modos_manual_y_AUTO.htm#IX_AUTO_1">
+      <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_AUTO_1">
+      <param name="Name" value="Modos_manual_y_AUTO.htm#IX_AUTO_2">
+      <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_AUTO_2">
+      <param name="Name" value="Modos_manual_y_AUTO.htm#IX_AUTO_3">
+      <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_AUTO_3">
+      <param name="Name" value="Modo_Manual.htm#IX_AUTO_4">
+      <param name="Local" value="OpMan/OpMan/Modo_Manual.htm#IX_AUTO_4">
+      <param name="Name" value="Transferencia_Llenado.htm#IX_AUTO_5">
+      <param name="Local" value="OpMan/OpMan/Transferencia_Llenado.htm#IX_AUTO_5">
+      <param name="Name" value="Flujo_inverso.htm#IX_AUTO_6">
+      <param name="Local" value="OpMan/OpMan/Flujo_inverso.htm#IX_AUTO_6">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="semiautomático">
+      <param name="Name" value="Referenciación_y_consignas_de_la_máquina_de_EDT.htm#IX_semiautom_tico">
+      <param name="Local" value="OpMan/OpMan/Referenciación_y_consignas_de_la_máquina_de_EDT.htm#IX_semiautom_tico">
+      <param name="Name" value="Visor_de_resultados.htm#IX_semiautom_tico_1">
+      <param name="Local" value="OpMan/OpMan/Visor_de_resultados.htm#IX_semiautom_tico_1">
+      <param name="Name" value="Funcionamiento_Semiautomático.htm#IX_semiautom_tico_2">
+      <param name="Local" value="OpMan/OpMan/Funcionamiento_Semiautomático.htm#IX_semiautom_tico_2">
+      <param name="Name" value="Secuencia_Semiautomática.htm#IX_semiautom_tico_3">
+      <param name="Local" value="OpMan/OpMan/Secuencia_Semiautomática.htm#IX_semiautom_tico_3">
+      <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm">
+      <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm">
+      <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm#IX_semiautom_tico_5">
+      <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm#IX_semiautom_tico_5">
+      <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm#IX_semiautom_tico_6">
+      <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm#IX_semiautom_tico_6">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Modo AUTO">
+    <param name="Name" value="Modo_AUTO.htm">
+    <param name="Local" value="OpMan/OpMan/Modo_AUTO.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Parámetros">
+    <param name="Name" value="Parámetros_de_rugosidad_según_lo_definido_en_la_norma_ISO_4287.htm">
+    <param name="Local" value="OpMan/OpMan/Parámetros_de_rugosidad_según_lo_definido_en_la_norma_ISO_4287.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="planta dieléctrica">
+    <param name="Name" value="Planta_de_Fluido_Dieléctrico.htm#IX_planta_diel_ctrica">
+    <param name="Local" value="OpMan/OpMan/Planta_de_Fluido_Dieléctrico.htm#IX_planta_diel_ctrica">
+    <param name="Name" value="Planta_dieléctrica.htm#IX_planta_diel_ctrica_1">
+    <param name="Local" value="OpMan/OpMan/Planta_dieléctrica.htm#IX_planta_diel_ctrica_1">
+    <param name="Name" value="Introducción3.htm#La_imagen_arriba_muestra">
+    <param name="Local" value="OpMan/OpMan/Introducción3.htm#La_imagen_arriba_muestra">
+    <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm">
+    <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm">
+    <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_planta_diel_ctrica_4">
+    <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_planta_diel_ctrica_4">
+    <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_planta_diel_ctrica_5">
+    <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_planta_diel_ctrica_5">
+    <param name="Name" value="Diagrama_esquemático_-_DTI.htm#IX_planta_diel_ctrica_6">
+    <param name="Local" value="OpMan/OpMan/Diagrama_esquemático_-_DTI.htm#IX_planta_diel_ctrica_6">
+    <param name="Name" value="Operaciones_de_Filtrado.htm#IX_planta_diel_ctrica_7">
+    <param name="Local" value="OpMan/OpMan/Operaciones_de_Filtrado.htm#IX_planta_diel_ctrica_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="rodillo">
+    <param name="Name" value="Instalación_-_Visión_de_Conjunto.htm#IX_rodillo">
+    <param name="Local" value="OpMan/OpMan/Instalación_-_Visión_de_Conjunto.htm#IX_rodillo">
+    <param name="Name" value="Descripción_General_de_la_Máquina_de_EDT.htm#IX_rodillo_1">
+    <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm#IX_rodillo_1">
+    <param name="Name" value="Descripción_General_de_la_Máquina_de_EDT.htm#IX_rodillo_2">
+    <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm#IX_rodillo_2">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_3">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_3">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_4">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_4">
+    <param name="Name" value="Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_5">
+    <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm#IX_rodillo_5">
+    <param name="Name" value="Manipulador_de_rodillos.htm#IX_rodillo_6">
+    <param name="Local" value="OpMan/OpMan/Manipulador_de_rodillos.htm#IX_rodillo_6">
+    <param name="Name" value="Manipulador_de_rodillos.htm#IX_rodillo_7">
+    <param name="Local" value="OpMan/OpMan/Manipulador_de_rodillos.htm#IX_rodillo_7">
+    <param name="Name" value="Manipulador_de_rodillos.htm#IX_rodillo_8">
+    <param name="Local" value="OpMan/OpMan/Manipulador_de_rodillos.htm#IX_rodillo_8">
+    <param name="Name" value="Estaciones_de_Texturizado.htm#IX_rodillo_9">
+    <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado.htm#IX_rodillo_9">
+    <param name="Name" value="Selección_del_Modo_Carga.htm#IX_rodillo_10">
+    <param name="Local" value="OpMan/OpMan/Selección_del_Modo_Carga.htm#IX_rodillo_10">
+    <param name="Name" value="Selección_del_Modo_Carga.htm#IX_rodillo_11">
+    <param name="Local" value="OpMan/OpMan/Selección_del_Modo_Carga.htm#IX_rodillo_11">
+    <param name="Name" value="Selección_del_Modo_Carga.htm#IX_rodillo_12">
+    <param name="Local" value="OpMan/OpMan/Selección_del_Modo_Carga.htm#IX_rodillo_12">
+    <param name="Name" value="Vista_de_Carga_Recarga_y_Descarga.htm#IX_rodillo_13">
+    <param name="Local" value="OpMan/OpMan/Vista_de_Carga_Recarga_y_Descarga.htm#IX_rodillo_13">
+    <param name="Name" value="Iconografía.htm#IX_rodillo_14">
+    <param name="Local" value="OpMan/OpMan/Iconografía.htm#IX_rodillo_14">
+    <param name="Name" value="Iconografía.htm#IX_rodillo_15">
+    <param name="Local" value="OpMan/OpMan/Iconografía.htm#IX_rodillo_15">
+    <param name="Name" value="Iconografía.htm#IX_rodillo_16">
+    <param name="Local" value="OpMan/OpMan/Iconografía.htm#IX_rodillo_16">
+    <param name="Name" value="Iconografía.htm#IX_rodillo_17">
+    <param name="Local" value="OpMan/OpMan/Iconografía.htm#IX_rodillo_17">
+    <param name="Name" value="Funcionamiento_Automático.htm#S_lo_se_presentar_n_para">
+    <param name="Local" value="OpMan/OpMan/Funcionamiento_Automático.htm#S_lo_se_presentar_n_para">
+    <param name="Name" value="Selección_de_Programas_y_Secuencia_Auto_-_Preámbulo.htm#IX_rodillo_19">
+    <param name="Local" value="OpMan/OpMan/Selección_de_Programas_y_Secuencia_Auto_-_Preámbulo.htm#IX_rodillo_19">
+    <param name="Name" value="Iconografía1.htm#IX_rodillo_20">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm#IX_rodillo_20">
+    <param name="Name" value="Iconografía1.htm#IX_rodillo_21">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm#IX_rodillo_21">
+    <param name="Name" value="Iconografía1.htm#IX_rodillo_22">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm#IX_rodillo_22">
+    <param name="Name" value="Iconografía1.htm#IX_rodillo_23">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm#IX_rodillo_23">
+    <param name="Name" value="Iconografía1.htm#IX_rodillo_24">
+    <param name="Local" value="OpMan/OpMan/Iconografía1.htm#IX_rodillo_24">
+    <param name="Name" value="Iconografía3.htm#IX_rodillo_25">
+    <param name="Local" value="OpMan/OpMan/Iconografía3.htm#IX_rodillo_25">
+    <param name="Name" value="Iconografía3.htm#IX_rodillo_26">
+    <param name="Local" value="OpMan/OpMan/Iconografía3.htm#IX_rodillo_26">
+    <param name="Name" value="Iconografía3.htm#IX_rodillo_27">
+    <param name="Local" value="OpMan/OpMan/Iconografía3.htm#IX_rodillo_27">
+    <param name="Name" value="Iconografía3.htm#IX_rodillo_28">
+    <param name="Local" value="OpMan/OpMan/Iconografía3.htm#IX_rodillo_28">
+    <param name="Name" value="Secuencia_Auto_-_Postámbulo.htm#IX_rodillo_29">
+    <param name="Local" value="OpMan/OpMan/Secuencia_Auto_-_Postámbulo.htm#IX_rodillo_29">
+    <param name="Name" value="Secuencia_Auto_-_Postámbulo.htm#IX_rodillo_30">
+    <param name="Local" value="OpMan/OpMan/Secuencia_Auto_-_Postámbulo.htm#IX_rodillo_30">
+    <param name="Name" value="Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_31">
+    <param name="Local" value="OpMan/OpMan/Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_31">
+    <param name="Name" value="Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_32">
+    <param name="Local" value="OpMan/OpMan/Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_32">
+    <param name="Name" value="Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_33">
+    <param name="Local" value="OpMan/OpMan/Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_33">
+    <param name="Name" value="Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_34">
+    <param name="Local" value="OpMan/OpMan/Requisitos_Previos_para_Funcionamiento_Semiautomático.htm#IX_rodillo_34">
+    <param name="Name" value="Funcionamiento_en_Imágenes.htm#IX_rodillo_35">
+    <param name="Local" value="OpMan/OpMan/Funcionamiento_en_Imágenes.htm#IX_rodillo_35">
+    <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm#IX_rodillo_36">
+    <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm#IX_rodillo_36">
+    <param name="Name" value="Puntos_de_consigna_en_semiautomático.htm#IX_rodillo_37">
+    <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm#IX_rodillo_37">
+    <param name="Name" value="Medición_de_la_Textura_de_la_Superficie_del_Rodillo.htm#IX_rodillo_38">
+    <param name="Local" value="OpMan/OpMan/Medición_de_la_Textura_de_la_Superficie_del_Rodillo.htm#IX_rodillo_38">
+    <param name="Name" value="Medición_de_la_Textura_de_la_Superficie_del_Rodillo.htm#IX_rodillo_39">
+    <param name="Local" value="OpMan/OpMan/Medición_de_la_Textura_de_la_Superficie_del_Rodillo.htm#IX_rodillo_39">
+    <param name="Name" value="Sobrevisión_estadística.htm#IX_rodillo_40">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_estadística.htm#IX_rodillo_40">
+    <param name="Name" value="Sobrevisión_típica_de_un_rodillo.htm">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm">
+    <param name="Name" value="Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_42">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_42">
+    <param name="Name" value="Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_43">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_43">
+    <param name="Name" value="Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_44">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_44">
+    <param name="Name" value="Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_45">
+    <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm#IX_rodillo_45">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="semi automático">
+    <param name="Name" value="Estructura_de_los_Menús.htm#IX_semi_autom_tico">
+    <param name="Local" value="OpMan/OpMan/Estructura_de_los_Menús.htm#IX_semi_autom_tico">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sistema Dieléctrico">
+    <param name="Name" value="Sistema_Dieléctrico.htm">
+    <param name="Local" value="OpMan/OpMan/Sistema_Dieléctrico.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Volteo">
+    <param name="Name" value="Volteo_Descarga.htm">
+    <param name="Local" value="OpMan/OpMan/Volteo_Descarga.htm">
+  </object>
+</ul>
+</html>
