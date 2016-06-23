@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc2.js\"  name=\"Operaciones de Emergencia / Seguridad\" url=\"OpMan/OpMan/Operaciones_de_Emergencia_Seguridad-.htm\"><item name=\"E-stop\" url=\"OpMan/OpMan/E-stop-.htm\" /></data>";

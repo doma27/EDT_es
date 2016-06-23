@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Transferencia / Llenado","url":"OpMan/OpMan/Transferencia_Llenado-.htm"},{"type":"item","name":"Filtrado","url":"OpMan/OpMan/Filtrado-.htm"},{"type":"item","name":"Flujo inverso","url":"OpMan/OpMan/Flujo_inverso-.htm"},{"type":"item","name":"Volteo / Descarga","url":"OpMan/OpMan/Volteo_Descarga-.htm"},{"type":"item","name":"Mezcla","url":"OpMan/OpMan/Mezcla-.htm"},{"type":"item","name":"Listo","url":"OpMan/OpMan/Listo-.htm"},{"type":"item","name":"Gestión del Cambio de Tanque","url":"OpMan/OpMan/Gestin_del_Cambio_de_Tanque-fwc.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

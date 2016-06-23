@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Selección de Programas y Secuencia Auto - Preámbulo","url":"OpMan/OpMan/Seleccin_de_Programas_y_Secuencia_Auto_-_Prembulo-38d49f.htm"},{"type":"item","name":"Ejecución automática - vista de posiciones","url":"OpMan/OpMan/Ejecucin_automtica_-_vista_de_posiciones-bjd26e.htm"},{"type":"item","name":"Ejecución automática - Vista de información","url":"OpMan/OpMan/Ejecucin_automtica_-_Vista_de_informacin-bjd26e7a.htm"},{"type":"item","name":"Secuencia Auto - Postámbulo","url":"OpMan/OpMan/Secuencia_Auto_-_Postmbulo-pfc.htm"},{"type":"item","name":"Visor de resultados","url":"OpMan/OpMan/Visor_de_resultados-.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

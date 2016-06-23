@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Entorno de la Máquina","url":"OpMan/OpMan/Entorno_de_la_Mquina-wxb.htm"},{"type":"item","name":"Lunetas","url":"OpMan/OpMan/Lunetas-.htm"},{"type":"item","name":"Estaciones de Texturizado","url":"OpMan/OpMan/Estaciones_de_Texturizado1-.htm"},{"type":"item","name":"Extracción de Gases","url":"OpMan/OpMan/Extraccin_de_Gases-x1b.htm"},{"type":"item","name":"Sistema Dieléctrico","url":"OpMan/OpMan/Sistema_Dielctrico-mwb.htm"},{"type":"item","name":"Lista de Figuras","url":"OpMan/OpMan/Lista_de_Figuras-.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Activación manual\" to=\"Introducción\" num=\"43\"/><ck fm=\"Introducción\" to=\"Vista de Carga, Recarga y Descarga\" num=\"40\"/><ck fm=\"Volteo / Descarga\" to=\"Volteo / Descarga\" num=\"1\"/></cki>";
