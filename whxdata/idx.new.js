@@ -1,4 +1,4 @@
 (function() {
-var index =  {"type":"index","chunkinfos":[{"type":"chunkinfo","first":"Ayuda","last":"Parámetros","num":"17","node":"idata1"},{"type":"chunkinfo","first":"planta dieléctrica","last":"Volteo","num":"5","node":"idata2"}]};
+var index =  {"type":"index","chunkinfos":[{"type":"chunkinfo","first":"A1","last":"Descargable","num":"66","node":"idata1"},{"type":"chunkinfo","first":"Descentralizada","last":"Estaciones","num":"32","node":"idata2"},{"type":"chunkinfo","first":"Estaciones de Texturizado","last":"Mantenimiento Diario","num":"45","node":"idata3"},{"type":"chunkinfo","first":"Manual","last":"Planta","num":"44","node":"idata4"},{"type":"chunkinfo","first":"planta dieléctrica","last":"Reutilizado","num":"32","node":"idata5"},{"type":"chunkinfo","first":"rodillo","last":"Servocontrol","num":"17","node":"idata6"},{"type":"chunkinfo","first":"Servocontroles","last":"Windows","num":"41","node":"idata7"}]};
 window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), index, { sync:true });
 })();

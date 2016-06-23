@@ -9,6 +9,7 @@ OpMan\OpMan\Armarios_elctricos-lwb.htm
 OpMan\OpMan\Ayuda-.htm
 OpMan\OpMan\Botones_de_seleccin-i5b.htm
 OpMan\OpMan\Ciclo_de_Funcionamiento_Diario_Normal-.htm
+OpMan\OpMan\Colores_de_los_nmeros-fhc.htm
 OpMan\OpMan\Comandos-.htm
 OpMan\OpMan\Consola_del_Operador-.htm
 OpMan\OpMan\Consola_del_Operador1-.htm
@@ -105,7 +106,6 @@ template\Charcoal_Grey\layout-rtl.css
 template\Charcoal_Grey\layout.css
 template\Theme3_Black\main.css
 template\Theme3_Black\jqueryui-custom.css
-OpMan\OpMan\OpMan.css
 OpMan\OpMan\image407.jpg
 OpMan\OpMan\image405.gif
 OpMan\OpMan\image403.gif
@@ -528,6 +528,7 @@ template\Charcoal_Grey\glossary_mobile.png
 Box_Arrow_Black_Down.gif
 ehlpdhtm.js
 RoboHHRE.lng
+index.html
 SearchOptions.xml
 Mobile_App_config.xml
 icon1.png
@@ -579,6 +580,16 @@ whxdata\idata1.js
 whxdata\idata1.new.js
 whxdata\idata2.js
 whxdata\idata2.new.js
+whxdata\idata3.js
+whxdata\idata3.new.js
+whxdata\idata4.js
+whxdata\idata4.new.js
+whxdata\idata5.js
+whxdata\idata5.new.js
+whxdata\idata6.js
+whxdata\idata6.new.js
+whxdata\idata7.js
+whxdata\idata7.new.js
 whxdata\idx.js
 whxdata\idx.new.js
 whxdata\glo.js
