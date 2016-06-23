@@ -1,4 +1,4 @@
-var gbBlockIOSScaling = 1;
+var gbBlockIOSScaling = 0;
 var gbPreviewMode = 0;
 var gRhEvtFuncsList = new Array;
 var gHost = null;

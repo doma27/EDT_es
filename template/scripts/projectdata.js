@@ -3,9 +3,9 @@
 rh = window.rh;
 model = rh.model;
 
-rh.consts('DEFAULT_TOPIC', encodeURI("#OpMan/OpMan/Activacin_manual-dvb.htm".substring(1)));
+rh.consts('DEFAULT_TOPIC', encodeURI("#OpMan/OpMan/Instalacin_-_Visin_de_Conjunto-e6ci.htm".substring(1)));
 rh.consts('START_FILEPATH', encodeURI('index.html'));
-rh.consts('HELP_ID', '2FAA66B7-6244-4B34-8C76-2A194769F747' || 'preview');
+rh.consts('HELP_ID', '910F3F0B-7AD5-4ACD-9C44-05DA42A85777' || 'preview');
 rh.consts('LNG_STOP_WORDS', ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "aceptar", "ahí", "alguna", "algunas", "alguno", "algunos", "aquí", "aún", "cada", "como", "cómo", "con", "cuál", "cualquier", "cualquiera", "cuando", "cuándo", "de", "deber", "dentro", "desde", "después", "dónde", "el", "él", "ella", "ello", "ellos", "en", "entonces", "entre", "era", "eran", "es", "esos", "esto", "estos", "forma", "hacer", "hacia", "hecho", "igual", "junto", "la", "lo", "los", "más", "necesitar", "ninguno", "no", "nosotros", "ó", "o", "otra", "otro", "otroa", "para", "pero", "poder", "por", "porque", "puede", "qué", "que", "queremos", "re", "ser", "si", "sido", "sin", "son", "soy", "sus", "también", "tan", "tener", "tiene", "todo", "Todo", "Todos", "todos", "tu", "tus", "u", "un", "una", "uno", "usado", "usando", "usar", "usted", "ustedes", "utilizando", "utilizar", "ver", "vosotros", "y", "ya", "Yo"]);
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
