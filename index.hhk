@@ -173,8 +173,6 @@
   <ul>
     <li><object type="text/sitemap">
       <param name="Name" value="AUTO">
-      <param name="Name" value="Introducción3.htm#IX_AUTO">
-      <param name="Local" value="OpMan/OpMan/Introducción3.htm#IX_AUTO">
       <param name="Name" value="Modos_manual_y_AUTO.htm#IX_AUTO_1">
       <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm#IX_AUTO_1">
       <param name="Name" value="Modos_manual_y_AUTO.htm#IX_AUTO_2">
@@ -222,8 +220,6 @@
     <param name="Local" value="OpMan/OpMan/Planta_de_Fluido_Dieléctrico.htm#IX_planta_diel_ctrica">
     <param name="Name" value="Planta_dieléctrica.htm#IX_planta_diel_ctrica_1">
     <param name="Local" value="OpMan/OpMan/Planta_dieléctrica.htm#IX_planta_diel_ctrica_1">
-    <param name="Name" value="Introducción3.htm#La_imagen_arriba_muestra">
-    <param name="Local" value="OpMan/OpMan/Introducción3.htm#La_imagen_arriba_muestra">
     <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm">
     <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm">
     <param name="Name" value="Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm#IX_planta_diel_ctrica_4">

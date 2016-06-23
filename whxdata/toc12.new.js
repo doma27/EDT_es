@@ -1,4 +1,4 @@
 (function() {
-var toc =  [{"type":"item","name":"Funcionamiento de la máquina en modo Consola","url":"OpMan/OpMan/Funcionamiento_de_la_máquina_en_modo_Consola.htm"},{"type":"book","name":"Uso del Péndulo","key":"toc13","url":"OpMan/OpMan/Uso_del_Péndulo.htm"}];
+var toc =  [{"type":"item","name":"Cuadro que describe los botones modales en el péndulo del usuario","url":"OpMan/OpMan/Cuadro_que_describe_los_botones_modales_en_el_péndulo_del_usuario.htm"}];
 window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
 })();

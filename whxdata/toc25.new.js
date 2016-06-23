@@ -1,4 +1,4 @@
 (function() {
-var toc =  [{"type":"item","name":"Transferencia / Llenado","url":"OpMan/OpMan/Transferencia_Llenado.htm"},{"type":"item","name":"Filtrado","url":"OpMan/OpMan/Filtrado.htm"},{"type":"item","name":"Flujo inverso","url":"OpMan/OpMan/Flujo_inverso.htm"},{"type":"item","name":"Volteo / Descarga","url":"OpMan/OpMan/Volteo_Descarga.htm"},{"type":"item","name":"Mezcla","url":"OpMan/OpMan/Mezcla.htm"},{"type":"item","name":"Listo","url":"OpMan/OpMan/Listo.htm"},{"type":"item","name":"Gestión del Cambio de Tanque","url":"OpMan/OpMan/Gestión_del_Cambio_de_Tanque.htm"}];
+var toc =  [{"type":"item","name":"Toma periódica de mediciones","url":"OpMan/OpMan/Toma_periódica_de_mediciones.htm"},{"type":"item","name":"Sobrevisión estadística","url":"OpMan/OpMan/Sobrevisión_estadística.htm"},{"type":"book","name":"Sobrevisión típica de un rodillo","key":"toc26","url":"OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm"}];
 window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
 })();

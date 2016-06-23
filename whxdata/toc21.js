@@ -1,1 +1,1 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc20.js\"  name=\"Funcionamiento en Imágenes\" url=\"OpMan/OpMan/Funcionamiento_en_Imágenes.htm\"><item name=\"Puntos de consigna en semiautomático\" url=\"OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm\" /></data>";
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Sistema contra Incendios\" url=\"OpMan/OpMan/Sistema_contra_Incendios.htm\"><item name=\"Activación manual\" url=\"OpMan/OpMan/Activación_manual.htm\" /></data>";

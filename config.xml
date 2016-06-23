@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget majorversion="5" minorversion="0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0" id="com.docs-smith.sarclad_EDT_es" version="0.0.1" versionCode="1">
+<widget majorversion="5" minorversion="0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0" id="com.sarclad.EDT_es" version="0.0.1" versionCode="1">
 	<name>Sarclad EDT</name>
 	<description>EDT es</description>
 	<gap:platform name="android"/>
@@ -21,4 +21,6 @@
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/media"/>
 	<supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true"/>
+	<icon src="icon1.png"/>
+	<gap:splash src="icon1.png"/>
 </widget>

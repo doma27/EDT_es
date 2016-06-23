@@ -1,4 +1,4 @@
 (function() {
-var toc =  [{"type":"item","name":"Introducción","url":"OpMan/OpMan/Introducción3.htm"},{"type":"item","name":"Panel de Control y Cuadro Sinóptico de la Planta Dieléctrica","url":"OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm"},{"type":"item","name":"Diagrama esquemático - DTI","url":"OpMan/OpMan/Diagrama_esquemático_-_DTI.htm"},{"type":"book","name":"Modos manual y AUTO","key":"toc24","url":"OpMan/OpMan/Modos_manual_y_AUTO.htm"},{"type":"book","name":"Operaciones de Filtrado","key":"toc25","url":"OpMan/OpMan/Operaciones_de_Filtrado.htm"}];
+var toc =  [{"type":"item","name":"Modo Manual","url":"OpMan/OpMan/Modo_Manual.htm"},{"type":"item","name":"Modo AUTO","url":"OpMan/OpMan/Modo_AUTO.htm"}];
 window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
 })();
