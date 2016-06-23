@@ -7,394 +7,105 @@
 </object>
 <ul>
   <li><object type="text/sitemap">
-    <param name="Name" value="Convenciones utilizadas en el manual">
-    <param name="Local" value="OpMan/OpMan/Convenciones_utilizadas_en_el_manual.htm">
-  </object>
-  <li><object type="text/sitemap">
     <param name="Name" value="Introducción">
-    <param name="Local" value="OpMan/OpMan/Introducción.htm">
   </object>
-  <ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Instalación - Visión de Conjunto">
-      <param name="Local" value="OpMan/OpMan/Instalación_-_Visión_de_Conjunto.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Descripción General de la Máquina de EDT">
-      <param name="Local" value="OpMan/OpMan/Descripción_General_de_la_Máquina_de_EDT.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Visión de Conjunto del Hardware de la Máquina de EDT">
-      <param name="Local" value="OpMan/OpMan/Visión_de_Conjunto_del_Hardware_de_la_Máquina_de_EDT.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Manipulador de rodillos">
-      <param name="Local" value="OpMan/OpMan/Manipulador_de_rodillos.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Estaciones de Texturizado">
-      <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Armarios eléctricos">
-      <param name="Local" value="OpMan/OpMan/Armarios_eléctricos.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Planta de Fluido Dieléctrico">
-      <param name="Local" value="OpMan/OpMan/Planta_de_Fluido_Dieléctrico.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Consola del Operador">
-      <param name="Local" value="OpMan/OpMan/Consola_del_Operador.htm">
-    </object>
-    </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Encendido y Apagado">
-    <param name="Local" value="OpMan/OpMan/Encendido_y_Apagado.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
-      <param name="Name" value="Encendido de la Máquina de EDT">
-      <param name="Local" value="OpMan/OpMan/Encendido_de_la_Máquina_de_EDT.htm">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="Operaciones de Emergencia / Seguridad">
-      <param name="Local" value="OpMan/OpMan/Operaciones_de_Emergencia_Seguridad.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="E-stop">
-        <param name="Local" value="OpMan/OpMan/E-stop.htm">
-      </object>
-      </ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Apagado de la Máquina de EDT">
-      <param name="Local" value="OpMan/OpMan/Apagado_de_la_Máquina_de_EDT.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Uso del Interruptor de Emergencia">
-        <param name="Local" value="OpMan/OpMan/Uso_del_Interruptor_de_Emergencia.htm">
-      </object>
-      </ul>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Interfaz de Usuario">
-    <param name="Local" value="OpMan/OpMan/Interfaz_de_Usuario.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Principios y Descripción General">
-      <param name="Local" value="OpMan/OpMan/Principios_y_Descripción_General.htm">
-    </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Disposición de la Pantalla">
-        <param name="Local" value="OpMan/OpMan/Disposición_de_la_Pantalla.htm">
-      </object>
-      </ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Estructura de los Menús">
-      <param name="Local" value="OpMan/OpMan/Estructura_de_los_Menús.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Notificación de Averías y Ayuda">
-      <param name="Local" value="OpMan/OpMan/Notificación_de_Averías_y_Ayuda.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Ayuda">
-      <param name="Local" value="OpMan/OpMan/Ayuda.htm">
     </object>
     <li><object type="text/sitemap">
       <param name="Name" value="Elementos y convenciones del interfaz de usuario">
-      <param name="Local" value="OpMan/OpMan/Elementos_y_convenciones_del_interfaz_de_usuario.htm">
     </object>
     <ul>
       <li><object type="text/sitemap">
-        <param name="Name" value="Comandos">
-        <param name="Local" value="OpMan/OpMan/Comandos.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Botones de selección">
-        <param name="Local" value="OpMan/OpMan/Botones_de_selección.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Indicadores">
-        <param name="Local" value="OpMan/OpMan/Indicadores.htm">
-      </object>
-      <li><object type="text/sitemap">
         <param name="Name" value="Otras convenciones del interfaz de usuario">
-        <param name="Local" value="OpMan/OpMan/Otras_convenciones_del_interfaz_de_usuario.htm">
       </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Colores de los números">
-          <param name="Local" value="OpMan/OpMan/Colores_de_los_números.htm">
-        </object>
-        </ul>
       </ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Modos de Navegación">
-      <param name="Local" value="OpMan/OpMan/Modos_de_Navegación.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Selección del Modo Carga">
-      <param name="Local" value="OpMan/OpMan/Selección_del_Modo_Carga.htm">
-    </object>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Referenciación y consignas de la máquina de EDT">
-    <param name="Local" value="OpMan/OpMan/Referenciación_y_consignas_de_la_máquina_de_EDT.htm">
   </object>
-  <ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Introducción">
-      <param name="Local" value="OpMan/OpMan/Introducción1.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Posiciones y direcciones de desplazamiento negativas y positivas">
-      <param name="Local" value="OpMan/OpMan/Posiciones_y_direcciones_de_desplazamiento_negativas_y_positivas.htm">
-    </object>
-    </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Funcionamiento en Modo Consola">
-    <param name="Local" value="OpMan/OpMan/Funcionamiento_en_Modo_Consola.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Consola del Operador">
-      <param name="Local" value="OpMan/OpMan/Consola_del_Operador1.htm">
     </object>
     <ul>
       <li><object type="text/sitemap">
-        <param name="Name" value="Funcionamiento de la máquina en modo Consola">
-        <param name="Local" value="OpMan/OpMan/Funcionamiento_de_la_máquina_en_modo_Consola.htm">
-      </object>
-      <li><object type="text/sitemap">
         <param name="Name" value="Uso del Péndulo">
-        <param name="Local" value="OpMan/OpMan/Uso_del_Péndulo.htm">
       </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Cuadro que describe los botones modales en el péndulo del usuario">
-          <param name="Local" value="OpMan/OpMan/Cuadro_que_describe_los_botones_modales_en_el_péndulo_del_usuario.htm">
-        </object>
-        </ul>
       </ul>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Ciclo de Funcionamiento Diario Normal">
-    <param name="Local" value="OpMan/OpMan/Ciclo_de_Funcionamiento_Diario_Normal.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
-      <param name="Name" value="Introducción">
-      <param name="Local" value="OpMan/OpMan/Introducción2.htm">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="Vista de Carga, Recarga y Descarga">
-      <param name="Local" value="OpMan/OpMan/Vista_de_Carga_Recarga_y_Descarga.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Iconografía">
-        <param name="Local" value="OpMan/OpMan/Iconografía.htm">
-      </object>
-      </ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Funcionamiento Automático">
-      <param name="Local" value="OpMan/OpMan/Funcionamiento_Automático.htm">
     </object>
     <ul>
       <li><object type="text/sitemap">
         <param name="Name" value="Selección de Programas y Secuencia Auto - Preámbulo">
-        <param name="Local" value="OpMan/OpMan/Selección_de_Programas_y_Secuencia_Auto_-_Preámbulo.htm">
       </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Iconografía">
-          <param name="Local" value="OpMan/OpMan/Iconografía1.htm">
-        </object>
-        </ul>
       <li><object type="text/sitemap">
         <param name="Name" value="Ejecución automática - vista de posiciones">
-        <param name="Local" value="OpMan/OpMan/Ejecución_automática_-_vista_de_posiciones.htm">
       </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Iconografía">
-          <param name="Local" value="OpMan/OpMan/Iconografía2.htm">
-        </object>
-        </ul>
       <li><object type="text/sitemap">
         <param name="Name" value="Ejecución automática - Vista de información">
-        <param name="Local" value="OpMan/OpMan/Ejecución_automática_-_Vista_de_información.htm">
-      </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Iconografía">
-          <param name="Local" value="OpMan/OpMan/Iconografía3.htm">
-        </object>
-        </ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Secuencia Auto - Postámbulo">
-        <param name="Local" value="OpMan/OpMan/Secuencia_Auto_-_Postámbulo.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Visor de resultados">
-        <param name="Local" value="OpMan/OpMan/Visor_de_resultados.htm">
       </object>
       </ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Funcionamiento Semiautomático">
-      <param name="Local" value="OpMan/OpMan/Funcionamiento_Semiautomático.htm">
     </object>
     <ul>
       <li><object type="text/sitemap">
-        <param name="Name" value="Requisitos Previos para Funcionamiento Semiautomático">
-        <param name="Local" value="OpMan/OpMan/Requisitos_Previos_para_Funcionamiento_Semiautomático.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Secuencia Semiautomática">
-        <param name="Local" value="OpMan/OpMan/Secuencia_Semiautomática.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Secuencia de funcionamiento">
-        <param name="Local" value="OpMan/OpMan/Secuencia_de_funcionamiento.htm">
-      </object>
-      <li><object type="text/sitemap">
         <param name="Name" value="Funcionamiento en Imágenes">
-        <param name="Local" value="OpMan/OpMan/Funcionamiento_en_Imágenes.htm">
       </object>
-      <ul>
-        <li><object type="text/sitemap">
-          <param name="Name" value="Puntos de consigna en semiautomático">
-          <param name="Local" value="OpMan/OpMan/Puntos_de_consigna_en_semiautomático.htm">
-        </object>
-        </ul>
       </ul>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Sistema contra Incendios">
-    <param name="Local" value="OpMan/OpMan/Sistema_contra_Incendios.htm">
   </object>
-  <ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Activación manual">
-      <param name="Local" value="OpMan/OpMan/Activación_manual.htm">
-    </object>
-    </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Planta dieléctrica">
-    <param name="Local" value="OpMan/OpMan/Planta_dieléctrica.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
-      <param name="Name" value="Panel de Control y Cuadro Sinóptico de la Planta Dieléctrica">
-      <param name="Local" value="OpMan/OpMan/Panel_de_Control_y_Cuadro_Sinóptico_de_la_Planta_Dieléctrica.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Diagrama esquemático - DTI">
-      <param name="Local" value="OpMan/OpMan/Diagrama_esquemático_-_DTI.htm">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="Modos manual y AUTO">
-      <param name="Local" value="OpMan/OpMan/Modos_manual_y_AUTO.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Modo Manual">
-        <param name="Local" value="OpMan/OpMan/Modo_Manual.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Modo AUTO">
-        <param name="Local" value="OpMan/OpMan/Modo_AUTO.htm">
-      </object>
-      </ul>
     <li><object type="text/sitemap">
       <param name="Name" value="Operaciones de Filtrado">
-      <param name="Local" value="OpMan/OpMan/Operaciones_de_Filtrado.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Transferencia / Llenado">
-        <param name="Local" value="OpMan/OpMan/Transferencia_Llenado.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Filtrado">
-        <param name="Local" value="OpMan/OpMan/Filtrado.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Flujo inverso">
-        <param name="Local" value="OpMan/OpMan/Flujo_inverso.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Volteo / Descarga">
-        <param name="Local" value="OpMan/OpMan/Volteo_Descarga.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Mezcla">
-        <param name="Local" value="OpMan/OpMan/Mezcla.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Listo">
-        <param name="Local" value="OpMan/OpMan/Listo.htm">
-      </object>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Gestión del Cambio de Tanque">
-        <param name="Local" value="OpMan/OpMan/Gestión_del_Cambio_de_Tanque.htm">
-      </object>
-      </ul>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Medición de la Textura de la Superficie del Rodillo">
-    <param name="Local" value="OpMan/OpMan/Medición_de_la_Textura_de_la_Superficie_del_Rodillo.htm">
   </object>
   <ul>
     <li><object type="text/sitemap">
-      <param name="Name" value="Toma periódica de mediciones">
-      <param name="Local" value="OpMan/OpMan/Toma_periódica_de_mediciones.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Sobrevisión estadística">
-      <param name="Local" value="OpMan/OpMan/Sobrevisión_estadística.htm">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="Sobrevisión típica de un rodillo">
-      <param name="Local" value="OpMan/OpMan/Sobrevisión_típica_de_un_rodillo.htm">
     </object>
-    <ul>
-      <li><object type="text/sitemap">
-        <param name="Name" value="Parámetros de rugosidad según lo definido en la norma ISO">
-        <param name="Local" value="OpMan/OpMan/Parámetros_de_rugosidad_según_lo_definido_en_la_norma_ISO_4287.htm">
-      </object>
-      </ul>
     </ul>
   <li><object type="text/sitemap">
     <param name="Name" value="Controles de Mantenimiento Diario">
-    <param name="Local" value="OpMan/OpMan/Controles_de_Mantenimiento_Diario.htm">
   </object>
-  <ul>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Entorno de la Máquina">
-      <param name="Local" value="OpMan/OpMan/Entorno_de_la_Máquina.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Lunetas">
-      <param name="Local" value="OpMan/OpMan/Lunetas.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Estaciones de Texturizado">
-      <param name="Local" value="OpMan/OpMan/Estaciones_de_Texturizado1.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Extracción de Gases">
-      <param name="Local" value="OpMan/OpMan/Extracción_de_Gases.htm">
-    </object>
-    <li><object type="text/sitemap">
-      <param name="Name" value="Sistema Dieléctrico">
-      <param name="Local" value="OpMan/OpMan/Sistema_Dieléctrico.htm">
-    </object>
-    </ul>
 </ul>
 </html>
